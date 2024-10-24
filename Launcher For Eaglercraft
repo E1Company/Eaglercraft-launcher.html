@@ -1,4 +1,26 @@
-<image link="https://logos-world.net/wp-content/uploads/2020/05/Minecraft-Logo.png" file="type/png"
+<style>body {
+  background-color: green;
+}</style>
+<style>button {
+background-color: #000000;
+border: none;
+color: black;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}</style>
+<style>h1 {
+  color: brown;
+}</style>
+<style>p {
+  color: brown;
+}</style>
+<style>button {
+  color: brown;
+}</style>
+<img src="https://cdn.glitch.me/project-avatar/b9a7f022-bbe0-4f61-a6b0-25fbb288d82a.png?2023-06-04T03:13:13.990Z" alt="Image description" />
 <br>
 <h1>Eaglercraft Launcher</h1>
 <br>
